@@ -1,9 +1,16 @@
 def soma(a, b):
     return a + b
-nova-funcionalidade
 
 
 def subtrai(a, b):
  return a - b
 
- main
+def funcao_x():
+ return "Versão X"
+
+def funcao_x():
+ return "Versão Y"
+
+
+def funcao_x():
+ return "Versão combinada: X e Y"
